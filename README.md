@@ -1,5 +1,7 @@
 # Project Overview
-I have created this sample project as learning reference on how to use NestJS Framework to build REST API. There are different Frameworks that can be used to build APIs, NestJS offers some advantages as:
+I have created this sample project as learning reference on how to use NestJS Framework to build REST API. There are different Frameworks that can be used to build APIs, NestJS offers some advantages as mentioned below:
+
+## NestJS Features:
 
   -  **Scalability and Maintainability:** NestJS promotes a modular architecture inspired by Angular’s design principles. It allows developers to easily organize applications into modules, components, services, and controllers. This modularity helps with code maintainability, and scalability and allows us to isolate and refactor specific parts of the application easily, without affecting other areas. This is important as it allows small teams or large to work on different features and functionality in parallel.
     
