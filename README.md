@@ -9,13 +9,13 @@ I have created this sample project as learning reference on how to use NestJS Fr
 When re-architecting our API we knew that Microservices was the route we wanted to take, so finding a framework that supported this type of architecture was important. Finding one that natively supported it was even better. NestJS has a handy package@nestjs/microservices that handles all the service communication and supports a range of transport protocols, such as gRPC.
 
   - **Similarity to Angular:**
-At Ricoh Europe we already have strong experience and foundations with Angular, which meant getting started with NestJS was much easier than the other options. Any Angular developer can easily get started building a NestJS application with only a small learning curve. This is a big advantage when getting started building a new API.
+    Having a strong experience and foundations with Angular it allows getting started with NestJS much easier than other options. Any Angular developer can easily get started building a NestJS application with only a small learning curve. This is a big advantage when getting started building a new API.
 
   - **TypeScript at its Core:**
 NestJS uses TypeScript at its core which gives a strong adherence to TypeScript. TypeScript is great for many reasons such as type safety, robust codebase, and early error detection and others.
 
   - **Native GraphQL Support:**
-NestJS has a built-in module for GraphQL called @nestjs/graphqlwhich means it is easy to seamlessly integrate GraphQL into your application. This module allows you to define GraphQL schemas using decorators and TypeScript classes, making it easy to create and manage your GraphQL API.
+NestJS has a built-in module for GraphQL called @nestjs/graphql which means it is easy to seamlessly integrate GraphQL into your application. This module allows you to define GraphQL schemas using decorators and TypeScript classes, making it easy to create and manage your GraphQL API.
 
   This written example show a CRUD REST API build using NestJS, Docker, Postgres, Swagger, and Prisma
 
